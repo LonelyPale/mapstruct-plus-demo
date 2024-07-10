@@ -1,9 +1,9 @@
 package my.demo.struct.mapstructplus;
 
 import io.github.linpeilie.Converter;
-import my.demo.struct.User;
-import my.demo.struct.UserDto;
-import my.demo.struct.UserVo;
+import my.demo.struct.model.User;
+import my.demo.struct.model.UserDto;
+import my.demo.struct.model.UserVo;
 
 import java.time.Duration;
 import java.time.Instant;

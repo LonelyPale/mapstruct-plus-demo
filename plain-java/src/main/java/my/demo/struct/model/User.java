@@ -1,4 +1,4 @@
-package my.demo.struct;
+package my.demo.struct.model;
 
 import io.github.linpeilie.annotations.AutoMapper;
 import io.github.linpeilie.annotations.AutoMappers;
